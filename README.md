@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+You can open this website using this Link (https://shivam-purohit.github.io/Text-Utils/)
 ## Available Scripts
 
 In the project directory, you can run:
